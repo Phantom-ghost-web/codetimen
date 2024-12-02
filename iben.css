@@ -1,0 +1,58 @@
+/* Init */
+* {
+    margin: 0px;
+    padding: 0px;
+ }
+ 
+ body,
+ html {
+   height: 100%;
+   box-sizing: border-box;
+   
+ }
+ 
+ /* TOPP BOX */
+ header {
+   background-color: rgb(179, 182, 0);
+ }
+ 
+ /* DER DU HAR INNHOLDET AV NETTSIDA */
+ main { 
+   font-family: 'bauhaus 93';
+ }
+ 
+ /* OVERSKRIFT */
+ h1 {
+   
+ }
+ 
+ h2 {
+   
+ }
+ 
+ h3 {
+  
+ }
+ 
+ /* TEKST */
+ p { 
+  
+ }
+ 
+ /* LINK */
+ a {
+   
+ }
+
+/*
+body,
+html{
+    height: 100%;
+    box-sizing: border-box;
+    background-image: url("https://www.adressaBakgrunn.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'futura';
+    color: beige;
+}
+*/
